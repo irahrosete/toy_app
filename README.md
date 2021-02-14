@@ -49,12 +49,12 @@ $ rails db:seed
 $ rails server
 ```
 
-For more information, see the [*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](https://www.railstutorial.org/)
+For more information, see the [Ruby on Rails Tutorial:
+Learn Web Development with Rails](https://www.railstutorial.org/)
 (6th Edition)
 
 ## Tests
 This app is built using Test-Driven Development. The tests have been automated using Minitest to test for the controllers, the models and overall integration. Guard is used to automatically run the tests.
 
 ## Deployment
-This app is continuously deployed using the Heroku server. Find the live site at
+This app is continuously deployed using the Heroku server. Find the live site at [Toy App](https://ror-mytoyapp.herokuapp.com/).
