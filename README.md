@@ -38,7 +38,7 @@ Learn Web Development with Rails](https://www.railstutorial.org/)
 (6th Edition)
 
 ## Tech Stack
-<img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/><img src="app/assets/images/ror.png"><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/heroku.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+<img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/><img src="app/assets/images/ror.png"><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/heroku.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 
 ## Tests
 This app is built using Test-Driven Development (TDD) and Behaviour-Driven Development (BDD). The test suite is automated using [Minitest](https://guides.rubyonrails.org/testing.html) to target the controllers, the models and the overall app integration. [Guard](https://github.com/guard/guard) is used to automatically run the tests.
